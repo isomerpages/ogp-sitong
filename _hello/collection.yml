@@ -1,5 +1,5 @@
 collections:
-  folder:
+  hello:
     output: true
     order:
       - 1 page.md
