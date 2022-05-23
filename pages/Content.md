@@ -3,4 +3,4 @@ title: Content
 permalink: /content
 description: ""
 ---
-this is content
+![](/images/hero-banner.png)this is content
